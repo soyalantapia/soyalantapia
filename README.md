@@ -28,7 +28,7 @@ Habilidades: Tengo dominio de PHP, PYTHON, GO, MySQL, HTML5, CSS3 y JavaScript, 
 - 💬 Soy multifuncional
 - 💬 Tuve una empresa con 27 vendedores a los 14 años
 - 💬 Invierto mucho en educación
-- 💬 Escribir 1 libro
+- 💬 Escribi 1 libro
 - 💬 Soy Autodidacta activo
 
 
