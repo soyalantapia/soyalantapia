@@ -20,5 +20,17 @@ Habilidades: Tengo dominio de PHP, PYTHON, GO, MySQL, HTML5, CSS3 y JavaScript, 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alantapia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/soyalantapia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/alantapiapv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://soyalantapia.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/soyalantapia)  
 
 
+#### MicroDatos Personales
+
+- 💬 Ya viví en 3 países
+- 💬 Me independicé antes de cumplir los 17
+- 💬 Estudio 1+ idiomas (Ingles) 
+- 💬 Soy multifuncional
+- 💬 Tuve una empresa con 27 vendedores a los 14 años
+- 💬 Invierto mucho en educación
+- 💬 Escribir 1 libro
+- 💬 Soy Autodidacta activo
+
+
 
 
