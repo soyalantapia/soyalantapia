@@ -4,7 +4,7 @@ Soy Programador web con más de 5 años de trayectoria generando código para em
 
 Mi Pasión por la programación a los 15 años, todo empezó estudiando la parte front end (HTML, CSS Y JS), pero cuando descubrí WordPress y Elementor sentí que todo lo que había estudiado era en vano. por eso ingresé al campo del back end, me encanta la lógica programática, las API, las funciones, resolver problemas con diferentes recursos. los diseñadores se ponen felices con sus logros en imagen pues mi felicidad es que el código consiga un resultado positivo y optimizado.
 
-Mi primera creación fue una plataforma "CMS - OFICINA VIRTUAL" donde se gestionaba los pedidos, facturación, creación de nuevas órdenes, y todo lo necesario para que los vendedores de la empresa se desarrollen, como un área de educación, libros y artículos de la empresa.
+Mi primera creación fue una plataforma "CMS - OFICINA VIRTUAL" donde se gestionaban los pedidos, facturación, creación de nuevas órdenes, y todo lo necesario para que los vendedores de la empresa se desarrollen, como un área de educación, libros y artículos de la empresa.
 
 Soy una persona multifuncional, área que ingreso trato de dar el 100% en cada tarea y proyecto. me he desarrollado a lo largo de mi vida como Emprendedor, inversor, Social media mánager, vendedor de bienes raíces, vendedor de joyas, capacitador en ventas, manejo de equipos, creación de embudos, SEO, Trafic manager y project manager en varios proyectos.
 
