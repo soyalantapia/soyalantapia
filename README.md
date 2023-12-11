@@ -10,21 +10,6 @@ Soy una persona multifuncional, área que ingreso trato de dar el 100% en cada t
 
 Nunca me he quedado quieto, siempre me he capacitado para mejorar mis habilidades en cada sector y mi meta mas grande es dar mejores soluciones a las empresas para que puedan incrementar sus ventas, disminuir tiempos y mejorar la calidad. y he encontrado todo eso en la programación.
 
-Habilidades: Tengo dominio de PHP, PYTHON, GO, MySQL, HTML5, CSS3 y JavaScript, conocimiento de las bases de datos MySQL. Dominio de Postman, GitHub, Git, XAMPP, FileZilla, Consola. Conocimientos avanzados en WordPress y Elementor Pro. Dominio de Word. Excel, PowerPoint. Capacidad de liderazgo y trabajo en equipo. Capacidad de aprender nuevas habilidades rápidamente.
-
-- 🔭 Actualmente trabajo como Freelancer 
-- 🌱 Estoy aprendiendo Ciberseguridad con Python 
-- 💬 Hablo Español y Portugues
-- ⚡ Pasiones: Programar / Aprender / Deportes / Running / Viajar / Boxeo
-
-#### MicroDatos Personales
-
-- 💬 Ya viví en 3 países
-- 💬 Me independicé antes de cumplir los 17
-- 💬 Estudio 1+ idiomas (Ingles) 
-- 💬 Soy multifuncional
-- 💬 Tuve una empresa con 27 vendedores a los 14 años
-- 💬 Invierto mucho en educación
 - 💬 Escribi 1 libro
 - 💬 Soy Autodidacta activo
 
